@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(230, 232, 245);
+}
+
+h1{
+    color: #093001;
+    font-family: monospace;
+    font-size:40px;
+    text-align:center;
+}
+
+#dishList{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+img{
+    border:3px solid #093001;
+    border-radius: 25px;
+    display:block;
+    margin:auto;
+}
+
+h2{
+    color: #1b0c5c;
+    font-family: monospace;
+    font-size:30px;
+    text-align:left;
+}
+
+#reqList, #dishSteps, p{
+    font-size: 20px;
+    justify-content: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    text-align: center;
+}
+

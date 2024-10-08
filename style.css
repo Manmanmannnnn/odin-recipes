@@ -32,9 +32,17 @@ h2{
     font-size: 20px;
     justify-content: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 1200px;
+    
 }
 
 p{
-    text-align: center;
+    border:2px solid rgb(119, 240, 201);
+    border-radius: 20px;
+    margin:10px auto;
+    width: 900px;
+    padding:4px 4px 6px 8px;
+    background-color: rgba(119, 240, 201,0.4);
 }
+
 
